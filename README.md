@@ -22,110 +22,73 @@ This mobile app is built using react native framework to facilitate Attendance M
 # Screenshots
 
 
-### Authentication
+### Onboarding Screens
 
 <img
     width="170"
     alt="Capture 1"
-    src="./readme_assets/auth-1.webp"
+    src="https://i.ibb.co/QPpRjcq/Screenshot-2022-02-10-09-40-21-18-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 /> <img
     width="170"
     alt="Capture 2"
-    src="./readme_assets/auth-2.webp"
+    src="https://i.ibb.co/0sPNMBH/Screenshot-2022-02-10-09-40-32-12-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 /> <img
     width="170"
     alt="Capture 3"
-    src="./readme_assets/auth-3.webp"
+    src="https://i.ibb.co/hKXYdsC/Screenshot-2022-02-10-09-40-38-17-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 3"
+    src="https://i.ibb.co/NrWWWMR/Screenshot-2022-02-10-09-40-45-06-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 />
+
+### Authentication Screens
 
 <img
     width="170"
     alt="Capture 4"
-    src="./readme_assets/auth-4.webp"
+    src="https://i.ibb.co/0mjz9Q5/Screenshot-2022-02-10-09-40-49-28-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 /> <img
     width="170"
     alt="Capture 4"
-    src="./readme_assets/auth-5.webp"
+    src="https://i.ibb.co/WysNzrF/Screenshot-2022-02-10-09-41-16-43-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 /> <img
     width="170"
     alt="Capture 4"
-    src="./readme_assets/auth-6.webp"
+    src="https://i.ibb.co/xFcpHxr/Screenshot-2022-02-10-09-41-23-12-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 4"
+    src="https://i.ibb.co/Hpp8nYR/Screenshot-2022-02-10-09-41-59-86-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 />
 
 
-### Admin
+### After Authentication
 
 <img
     width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/7VHn1nz/Screenshot-2022-02-10-09-48-31-07-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 3"
+    src="https://i.ibb.co/r3PpMht/Screenshot-2022-02-10-09-49-08-47-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 3"
+    src="https://i.ibb.co/ZX3B4bw/Screenshot-2022-02-10-09-49-17-50-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/><img
+    width="170"
     alt="Capture 1"
-    src="./readme_assets/admin-1.webp"
+    src="https://i.ibb.co/P1tTknd/Screenshot-2022-02-10-09-49-39-91-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 /> <img
     width="170"
     alt="Capture 2"
-    src="./readme_assets/admin-2.webp"
+    src="https://i.ibb.co/vkXYB2h/Screenshot-2022-02-10-09-53-32-81-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 /> <img
     width="170"
     alt="Capture 3"
-    src="./readme_assets/admin-3.webp"
-/> <img
-    width="170"
-    alt="Capture 3"
-    src="./readme_assets/admin-4.webp"
-/>
-
-
-<img
-    width="170"
-    alt="Capture 1"
-    src="./readme_assets/admin-5.webp"
-/> <img
-    width="170"
-    alt="Capture 2"
-    src="./readme_assets/admin-6.webp"
-/> <img
-    width="170"
-    alt="Capture 3"
-    src="./readme_assets/admin-7.webp"
-/> <img
-    width="170"
-    alt="Capture 3"
-    src="./readme_assets/admin-8.webp"
-/>
-
-### Student
-
-<img
-    width="170"
-    alt="Capture 1"
-    src="./readme_assets/student-1.webp"
-/> <img
-    width="170"
-    alt="Capture 2"
-    src="./readme_assets/student-2.webp"
-/> <img
-    width="170"
-    alt="Capture 3"
-    src="./readme_assets/student-3.webp"
-/> <img
-    width="170"
-    alt="Capture 3"
-    src="./readme_assets/student-4.webp"
-/>
-
-### CareTaker
-
-<img
-    width="170"
-    alt="Capture 1"
-    src="./readme_assets/caretaker-1.webp"
-/> <img
-    width="170"
-    alt="Capture 2"
-    src="./readme_assets/caretaker-2.webp"
-/> <img
-    width="170"
-    alt="Capture 3"
-    src="./readme_assets/caretaker-3.webp"
+    src="https://i.ibb.co/Xy0vzBJ/Screenshot-2022-02-10-09-53-45-14-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 />
 
 
