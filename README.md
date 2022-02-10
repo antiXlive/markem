@@ -68,6 +68,92 @@ This mobile app is built using react native framework to facilitate Attendance M
 <img
     width="170"
     alt="Capture 2"
+    src="https://i.ibb.co/23WyrHq/Screenshot-2022-02-10-09-42-06-73-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/kH8y7WT/Screenshot-2022-02-10-09-42-13-49-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/xHCZ8Jd/Screenshot-2022-02-10-09-42-31-24-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/3cP3HnX/Screenshot-2022-02-10-09-42-34-49-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/5k1KHcG/Screenshot-2022-02-10-09-42-42-51-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/y5kLXbb/Screenshot-2022-02-10-09-42-51-84-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/h7CHpYK/Screenshot-2022-02-10-09-44-40-27-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/J7BZr2h/Screenshot-2022-02-10-09-43-25-25-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/9NZFq1S/Screenshot-2022-02-10-09-45-33-99-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/r6FsS77/Screenshot-2022-02-10-09-45-42-96-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/XJpd2V5/Screenshot-2022-02-10-09-45-50-81-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/m84z3Pk/Screenshot-2022-02-10-09-46-01-81-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/>
+
+
+<img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/TcZBLpb/Screenshot-2022-02-10-09-47-29-54-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/TbhfKyb/Screenshot-2022-02-10-09-47-34-15-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/9sdV104/Screenshot-2022-02-10-09-47-39-59-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/VjzhxXt/Screenshot-2022-02-10-09-47-43-93-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/pWz5ZjN/Screenshot-2022-02-10-09-47-57-11-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/tHSSxNF/Screenshot-2022-02-10-09-48-05-41-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/ZNTB9qn/Screenshot-2022-02-10-09-48-19-51-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="https://i.ibb.co/kh7KNSt/Screenshot-2022-02-10-09-48-24-80-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
+/>
+
+
+<img
+    width="170"
+    alt="Capture 2"
     src="https://i.ibb.co/7VHn1nz/Screenshot-2022-02-10-09-48-31-07-61d79088e1bd2ba5c60fa2dd5f508164.jpg"
 /> <img
     width="170"
